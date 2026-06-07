@@ -13,4 +13,3 @@
   <img src="./icons/docker-original-wordmark.svg"width="80" height="80"/>&nbsp;
   <img src="./icons/sqlite-original-wordmark.svg"width="80" height="80"/>&nbsp;
 </div>
-![Мой баннер](./background.jfif)
