@@ -5,8 +5,11 @@
 
 
 <div>
+  <img src="./icons/github-original-wordmark.svg"width="80" height="80"/>&nbsp;
   <img src="./icons/Python.svg"width="80" height="80"/>&nbsp;
   <img src="./icons/C++.svg"width="80" height="80"/>&nbsp;
   <img src="./icons/HTML.svg"width="80" height="80"/>&nbsp;
   <img src="./icons/CSS.svg"width="80" height="80"/>&nbsp;
+  <img src="./icons/docker-original-wordmark.svg"width="80" height="80"/>&nbsp;
+  <img src="./icons/sqlite-original-wordmark.svg"width="80" height="80"/>&nbsp;
 </div>
